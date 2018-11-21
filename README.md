@@ -1,6 +1,6 @@
 # Laravel parallel job queues
 
-_Do not use this in production, yet, it can be very useful for development!_
+_Do not use this in production, it can be useful for development_
 
 ### Features
 
@@ -11,4 +11,4 @@ _Do not use this in production, yet, it can be very useful for development!_
 ### Todo
 
 - Start from config, or from CLI options
-- No way to set the queue names yet
+- No way to set the queue names
